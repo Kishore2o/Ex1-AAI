@@ -1,5 +1,5 @@
-<H3> Name Kishore S </H3>
-<H3>Register No. 212222240050</H3>
+<H3> Name : Kishore S </H3>
+<H3>Register No : 212222240050</H3>
 <H3> Experiment 1</H3>
 <H3>DATE:</H3>
 <H1> Implementation of Bayesian Networks</H1>
